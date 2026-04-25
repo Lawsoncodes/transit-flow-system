@@ -41,10 +41,10 @@ make stop
 
 After running `make start`, the following services will be available:
 
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:5000
+- **Frontend**: http://localhost:8080
+- **Backend API**: http://localhost:8080
 - **Database**: localhost:5432
-- **Admin Panel**: http://localhost:3000/admin
+- **Admin Panel**: http://localhost:8080/admin
 
 ## Project Structure
 
